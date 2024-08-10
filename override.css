@@ -1,0 +1,7 @@
+/* override.css */
+body {
+    background-image: url('images/BACKGROUND2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
